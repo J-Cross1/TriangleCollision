@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "collision", "collision.vcxproj", "{C1FD7E6C-CC4F-47D4-8791-BB0ACB1C6634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FD7E6C-CC4F-47D4-8791-BB0ACB1C6634}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1FD7E6C-CC4F-47D4-8791-BB0ACB1C6634}.Debug|x86.Build.0 = Debug|Win32
+		{C1FD7E6C-CC4F-47D4-8791-BB0ACB1C6634}.Release|x86.ActiveCfg = Release|Win32
+		{C1FD7E6C-CC4F-47D4-8791-BB0ACB1C6634}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F5DE15F-AFED-4C43-8B44-0FBE769649A1}
+	EndGlobalSection
+EndGlobal
